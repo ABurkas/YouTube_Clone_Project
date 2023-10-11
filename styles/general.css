@@ -1,5 +1,4 @@
 p {
-  font-family: Roboto, Arial;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -9,4 +8,5 @@ body {
   padding-left: 90px;
   padding-right: 24px;
   background-color: rgb(249, 249, 249);
+  font-family: Roboto, Arial;
 }
