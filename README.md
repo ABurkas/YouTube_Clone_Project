@@ -1,6 +1,8 @@
 <h1 align="center">YouTube Clone Website Project🧪</h1>
 <h2 align="center">Project description</h2>
 
+![1](https://github.com/ABurkas/YouTube_Clone_Project/blob/YouTube_Clone_Project/screenshots/screenshot_1.png)
+
 The project appears to be a web page that emulates the appearance and functionality of YouTube, particularly its header, sidebar, and video content. 
 Here's an overview of the various components and styles used in this project:
 
