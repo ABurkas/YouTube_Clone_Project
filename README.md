@@ -47,3 +47,7 @@ Here's an overview of the various components and styles used in this project:
 
 This project aims to replicate the YouTube user interface, allowing users to browse and view video content. The web page features a familiar header, sidebar, and video previews. 
 The CSS styles provide a clean and modern design, while the use of media queries ensures a responsive layout that adapts to different screen sizes.
+
+<h1>You can try it here👇</h1>
+
+https://aburkas.github.io/YouTube_Clone_Project/
